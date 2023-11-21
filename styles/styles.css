@@ -1,0 +1,20 @@
+body {
+    background-image: url(../assets/moonbg.png);
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.active {
+    background-color: cornflowerblue !important;
+}
+
+.hPadding {
+    padding-top: 3%
+}
+
+.rPadding {
+    padding-top: 6%
+}
