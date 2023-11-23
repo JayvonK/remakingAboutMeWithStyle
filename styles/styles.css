@@ -34,5 +34,13 @@ body {
 }
 
 .leftPadding {
-    padding-left: 5%;
+    padding-left: 10%;
+}
+
+.rightPadding {
+    padding-right: 3%
+}
+
+.rightPadding2 {
+    padding-right: 4%
 }
