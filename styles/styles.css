@@ -12,14 +12,27 @@ body {
     justify-content: end;
 }
 
+.left {
+    display: flex;
+    justify-content: start;
+}
+
 .active {
     background-color: cornflowerblue !important;
 }
 
 .hPadding {
-    padding-top: 3%
+    padding-top: 3%;
 }
 
 .rPadding {
-    padding-top: 6%
+    padding-top: 4%;
+}
+
+.whiteBorder {
+    border: 1px solid white;
+}
+
+.leftPadding {
+    padding-left: 5%;
 }
